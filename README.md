@@ -15,6 +15,8 @@ which extends the abstract Vehicle class. The Car class contains the following:
 
 ![This is a alt text.](Car.png "This is a sample Car image.")
 
+![This is a alt text.](Car2.png "This is a sample Car image.")
+
 ## Links
 
 Images for [Cars](https://www.bing.com/images/search?q=cars).
