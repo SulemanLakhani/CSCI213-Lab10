@@ -13,7 +13,9 @@ which extends the abstract Vehicle class. The Car class contains the following:
 
 ## Images
 
-![This is a alt text.](/image/Car.png "This is a sample Car image.")
+<img src ="Car.png" width = "500">
+
+<img src ="Car2.png" width = "500">
 
 ## Links
 
