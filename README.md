@@ -13,7 +13,7 @@ which extends the abstract Vehicle class. The Car class contains the following:
 
 ## Images
 
-![This is a alt text.](http://lamborghinicarwallpaperz.blogspot.com/2014/02/cool-fast-cars-wallpapers.html "This is a sample Car image.")
+![This is a alt text.](Car.png "This is a sample Car image.")
 
 ## Links
 
