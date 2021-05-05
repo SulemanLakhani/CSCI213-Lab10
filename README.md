@@ -12,14 +12,14 @@ which extends the abstract Vehicle class. The Car class contains the following:
 * a copy method
 
 ## Images
-![Car](/images/Car.png)
 
-![Car](/images/Car2.png)
+<img src ="/images/Car.png" width = "500">
 
-<img src ="Car.png" width = "500">
-
-<img src ="Car2.png" width = "500">
+<img src ="/images/Car2.png" width = "500">
 
 ## Links
 
 Images for [Cars](https://www.bing.com/images/search?q=cars).
+
+:smile:
+
