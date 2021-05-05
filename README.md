@@ -12,6 +12,9 @@ which extends the abstract Vehicle class. The Car class contains the following:
 * a copy method
 
 ## Images
+![Car](/images/Car.png)
+
+![Car](/images/Car2.png)
 
 <img src ="Car.png" width = "500">
 
