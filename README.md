@@ -21,5 +21,5 @@ which extends the abstract Vehicle class. The Car class contains the following:
 
 Images for [Cars](https://www.bing.com/images/search?q=cars).
 
-:smile:
+:smiley:
 
